@@ -4,4 +4,9 @@ fg.py
 c.cpp
 c.exe
 ck.c
-ck.exe
+ck.exe 
+ c.ilk
+        c.obj
+        c.pdb
+        tempCodeRunnerFile.cpp
+        vc140.pdb
